@@ -20,6 +20,9 @@ Contact: Christopher_Botka@hms.harvard.edu, fangquans@gmail.com
 
 RepeatMasker is a program that screens DNA sequences for interspersed repeats and low complexity DNA sequences. We developed RMPipeline, as a secondary level repeats analysis pipeline. 
 
+Example command for running RepeatMasker can be downloaded here:
+
+    https://github.com/downloads/fangquan/RMPipeline/repeatmasker.bash
 
 ======================
 2, Functional scripts 
